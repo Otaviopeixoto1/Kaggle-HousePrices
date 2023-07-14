@@ -1,2 +1,3 @@
-# kaggle-House-Prices-Linear-Regression-
-Solução do problema do preço das casas disponivel no kaggle usando um modelo simples de regressão linear
+# kaggle-House Prices (Linear-Regression)
+Solution to one of kaggle's classic problems (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) of  predicting house prices based on the Ames Housing Dataset
+
